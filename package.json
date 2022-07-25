@@ -1,6 +1,6 @@
 {
   "name": "messageshow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "First message application",
   "main": "index.js",
   "scripts": {
