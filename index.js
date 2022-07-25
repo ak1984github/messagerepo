@@ -1,4 +1,4 @@
-function messagePrint(){
-    return "hello team";
+function messagePrint(message){
+    return "hello team:"+message;
 }
 module.exports = {messagePrint}
