@@ -1,0 +1,22 @@
+{
+  "name": "messageshow",
+  "version": "1.0.0",
+  "description": "First message application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak1984github/messagerepo.git"
+  },
+  "keywords": [
+    "messageprint"
+  ],
+  "author": "alok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak1984github/messagerepo/issues"
+  },
+  "homepage": "https://github.com/ak1984github/messagerepo#readme"
+}
